@@ -28,29 +28,6 @@ This was my first hands-on game project, designed to learn the basics of 2D game
 
 ---
 
-## ▶️ How to Run
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/brick-breaker-game.git
-cd brick-breaker-game
-````
-
-2. **Install dependencies**
-
-```bash
-pip install pygame
-```
-
-3. **Run the game**
-
-```bash
-python brick_breaker.py
-```
-
----
-
 ## 🎯 Gameplay Highlights
 
 * Smooth paddle movement using `pygame.key.get_pressed()`
