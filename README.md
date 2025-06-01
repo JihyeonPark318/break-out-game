@@ -3,7 +3,7 @@
 A simple **Brick Breaker (Breakout)** game built with Python and Pygame.  
 This was my first hands-on game project, designed to learn the basics of 2D game development — including real-time rendering, keyboard input, collision detection, and simple physics.
 
-![Gameplay Screenshot](images/gameplay_screenshot.png)
+![photo](result.png)
 
 ---
 
