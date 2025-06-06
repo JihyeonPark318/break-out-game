@@ -43,3 +43,9 @@ This was my first hands-on game project, designed to learn the basics of 2D game
 * Using tuples to associate color data with Rects (since `pygame.Rect` is immutable)
 * Structuring a game loop (input → update → draw → repeat)
 * Managing FPS to balance speed and playability
+---
+
+## 🧑‍💻 Author
+
+> Maintained by Jihyeon Park
+> Tech blog: [https://aeolian-stranger-f37.notion.site/Breakout-2056eded2310801fb3d2cc4e9385043a?pvs=74]
